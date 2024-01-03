@@ -8,7 +8,7 @@
 　　　　　　　| 텍스트 기반 예측 모델 구축, PPT 제작   
 김동신(팀원) | 서비스 기획, 데이터 전처리         
 　　　　　　　|  ASR 모델 구축, 음성 데이터셋 분류              
-한동(팀원) | 서비스 기획, 회의록 작성
+한동훈(팀원) | 서비스 기획, 회의록 작성
 　　　　　　　| ASR 모델 구축, 음성 데이터셋 분류
 ---
 ### ○ Skils: STT , Whisper(API) , TF-IDF , Keras, librosa , ( waveform,spectogram ; 시각화 )
