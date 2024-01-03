@@ -15,6 +15,9 @@
 
 ### ○ Model: CNN, ASR
 
+### ○ Dataset : https://competition.aihub.or.kr/hackathon/scheduleDetail/6
+
+### ○ Project Schedule 23.9.12 ~ 23.10.6(약 3주)
 ***
 
 - ## 기획
