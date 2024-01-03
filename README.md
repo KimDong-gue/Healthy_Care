@@ -1,10 +1,10 @@
-# 주제: 음성인식 및 텍스트 분석을 활용한 비대면 진료
+# -Subject: 음성인식 및 텍스트 분석을 활용한 비대면 진료
 
-# 인원: 김가은, 김동신, 한동훈
+# -Contributer: 김가은, 김동신, 한동훈
 
-### Skils: STT , Whisper(API) , TF-IDF , Keras, librosa , ( waveform,spectogram ; 시각화 )
+### -Skils: STT , Whisper(API) , TF-IDF , Keras, librosa , ( waveform,spectogram ; 시각화 )
 
-### 모델: CNN, ASR
+### -Model: CNN, ASR
 ---
 - 음성인식 및 텍스트 분석을 활용한 비대면 진료
   
