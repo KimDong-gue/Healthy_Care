@@ -32,9 +32,7 @@
 - ## Model evaluation
 
 ![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/13635877-1151-4533-aadb-246d6c85ef72)
-
 ![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/768d06ab-caec-46fa-8da5-214e71fb596f)
-
 ![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/88736c0f-b145-4db8-b587-c3c00a74f1da)
 
 ---
