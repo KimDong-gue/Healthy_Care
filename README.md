@@ -36,7 +36,6 @@
 
 - ## Model evaluation
 
-![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/13635877-1151-4533-aadb-246d6c85ef72)
 ![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/768d06ab-caec-46fa-8da5-214e71fb596f)
 ![image](https://github.com/KimDong-gue/Healthy_Care/assets/116249934/88736c0f-b145-4db8-b587-c3c00a74f1da)
 
@@ -54,3 +53,8 @@
 - STT 정확도로 인한 내용 불일치: 불필요한 내용이 포함되어, TF-IDF 모델에 입력으로 제공되어 정확도가 떨어짐
 - 다른 방식 탐색? 원하는 음성 데이터셋을 구축하기 위해서는 TTS 기술을 활용하여 텍스트를 음성으로 변환해야함
   - 증상 판별 보다는 << 환자 증상 입력을 위한 방식으로 활용 수정
+ 
+- ## 성능개선 노력
+- 정확도를 높이기 위해, 이미지를 `keras`라이브러리를 토대로, 데이터 증강하여 `Accuracy`가 다소 높아졌다.
+- 음성 데이터를 스펙트로그램 변환한 후에, 학습을 수행했는데, 정확도가 좋지 않았다. 구글링을 해보니, `librosa`라는 음성데이터 전처리 기법이 있어, 적용해보니, `Accuracy`를 높일수 있었다.
+ 
